@@ -18,5 +18,23 @@
 AIHUB 데이터 :
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71391
 
+## 참고문헌
 
+1. 주제 선정 기사
+*   https://news.kbs.co.kr/news/pc/view/view.do?ncd=5597196
+*   https://www.donga.com/news/Society/article/all/20221109/116400337/1
+
+
+2. 참고 자료
+*   [[CNN] VGG16 (tistory.com)](https://hnsuk.tistory.com/30)
+
+3. MASK R-CNN
+*   https://github.com/matterport/Mask_RCNN/blob/master/samples/shapes/train_shapes.ipynb
+
+4. Faster R-CNN
+*   https://github.com/jwyang/faster-rcnn.pytorch
+
+5. 참고 논문
+*  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10490558
+*  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11711659  
 
